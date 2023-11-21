@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dragapult
+* source:	https://sketchfab.com/3d-models/dragapult-7c04d0b88b8e4c2b873f4545b78bc8f4
+* author:	LunaEagle (https://sketchfab.com/LunaEagle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dragapult" (https://sketchfab.com/3d-models/dragapult-7c04d0b88b8e4c2b873f4545b78bc8f4) by LunaEagle (https://sketchfab.com/LunaEagle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
