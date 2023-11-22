@@ -1,0 +1,11 @@
+Model Information:
+* title:	obamasphere
+* source:	https://sketchfab.com/3d-models/obamasphere-03cb8581b70b460391a8418e2d99ed56
+* author:	smallketchup82 (https://sketchfab.com/smallketchup82)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "obamasphere" (https://sketchfab.com/3d-models/obamasphere-03cb8581b70b460391a8418e2d99ed56) by smallketchup82 (https://sketchfab.com/smallketchup82) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
