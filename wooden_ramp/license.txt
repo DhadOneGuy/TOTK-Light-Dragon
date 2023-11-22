@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Ramp
+* source:	https://sketchfab.com/3d-models/wooden-ramp-6e862a74dcab40bfa05ca823c764ccd0
+* author:	KARMA (https://sketchfab.com/syedabbas0815)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Ramp" (https://sketchfab.com/3d-models/wooden-ramp-6e862a74dcab40bfa05ca823c764ccd0) by KARMA (https://sketchfab.com/syedabbas0815) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
